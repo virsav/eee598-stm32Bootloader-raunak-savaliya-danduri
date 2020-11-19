@@ -1,1 +1,5 @@
-# eee598-stm32Bootloader-raunak-savaliya-danduri
+STM32-Bootloader
+
+Project-2 Mobile Systems Architecture
+
+Customizable Bootloader for STM32 microcontrollers.
