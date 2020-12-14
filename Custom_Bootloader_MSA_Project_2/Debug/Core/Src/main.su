@@ -1,0 +1,12 @@
+main.c:88:5:main	288	static
+main.c:176:6:SystemClock_Config	160	static
+main.c:223:13:MX_CRC_Init	8	static
+main.c:254:13:MX_USART2_UART_Init	8	static
+main.c:289:13:MX_USART3_UART_Init	8	static
+main.c:324:13:MX_GPIO_Init	48	static
+main.c:353:7:bootloader_uart_read_data	288	static
+main.c:393:14:My_flash_write	40	static
+main.c:425:15:My_flash_erase	40	static
+main.c:450:6:Wait_For_EnterKey	16	static
+main.c:462:7:printmsg	272	static
+main.c:478:6:Error_Handler	4	static,ignoring_inline_asm

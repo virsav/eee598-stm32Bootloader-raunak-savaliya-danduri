@@ -1,0 +1,3 @@
+uart.c:5:13:uart_rcv	24	static
+uart.c:18:13:uart_trnsmt_str	24	static
+uart.c:38:13:uart_trnsmt_ch	24	static

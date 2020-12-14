@@ -1,0 +1,4 @@
+xmodem.c:15:6:xmodem_rcv	16	static
+xmodem.c:96:17:xmodem_calculate_crc	24	static
+xmodem.c:119:22:xmodem_packet_handler	1056	static
+xmodem.c:211:22:xmodem_error_handler	24	static
